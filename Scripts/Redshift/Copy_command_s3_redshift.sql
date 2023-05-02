@@ -1,0 +1,1 @@
+copy covid_19 from 's3://covid-19-airflow/covid-19-cleaned.csv' access_key_id 'AKIAVYZYH4OYXFAEJJMP' secret_access_key '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' DELIMITER ',' IGNOREHEADER 1;
